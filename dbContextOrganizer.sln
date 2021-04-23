@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbContextOrganizer", "dbContextOrganizer.csproj", "{1E91FB47-6922-4481-AD48-1D164F63D103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E91FB47-6922-4481-AD48-1D164F63D103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E91FB47-6922-4481-AD48-1D164F63D103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E91FB47-6922-4481-AD48-1D164F63D103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E91FB47-6922-4481-AD48-1D164F63D103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2D8AF8-5078-4A04-ABFE-EC143CC7D643}
+	EndGlobalSection
+EndGlobal
